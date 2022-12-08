@@ -1,0 +1,11 @@
+.jumbotron {
+  background-color: #3f3d56;
+  color: white;
+  height: 300px;
+  text-align: center;
+  background-image: "/CTAEMAINBUILDING.jpg";
+}
+.jumbotron h1 {
+  font-size: 80px;
+  text-align: center;
+}

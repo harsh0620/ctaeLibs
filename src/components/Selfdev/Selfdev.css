@@ -1,0 +1,13 @@
+.show4 {
+  visibility: hidden;
+  color: red;
+}
+.show a {
+  text-decoration: none;
+  color: black;
+}
+.show a:hover {
+  text-decoration: none;
+  color: black;
+  cursor: pointer;
+}
